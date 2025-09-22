@@ -3,7 +3,7 @@ Repositório do aplicativo de previsão do tempo desenvolvido para a Agenda 7 da
 
 Este aplicativo permite a consulta de informações climáticas em tempo real, oferecendo a funcionalidade de pesquisar pelo nome da cidade ou utilizar a localização atual do dispositivo. Ele exibe dados climáticos detalhados e um mapa meteorológico dinâmico.
 
-Principais Características:
+Principais Características
 
 Interface intuitiva e responsiva
 
